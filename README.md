@@ -1,6 +1,6 @@
 # LPC_CMSDAS_EGamma_2022
 
-git clone https://github.com/akapoorcern/LPC_CMSDAS2022_EGamma_ID.git
+git clone https://github.com/cms-egamma/LPC_CMSDAS_2022_EGammaID.git
 
 go back to the jupyter window
 
